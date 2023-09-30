@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<launch>
+
+  <!-- Publish tf 'base_footprint' as pose. odom in posecov umwandeln-->
+  <node pkg="exp4" type="tf_to_pose_publisher.py" name="pose_publisher">
+    <param name="from_frame" type="string" value="odom"/>
+    <param name="to_frame" type="string" value="base_footprint"/>
+  </node>
+
+  <!-- Run a passthrough filter to down-sample the sensor point cloud.-->
+  <node pkg="nodelet" type="nodelet" name="pcl_manager" args="manager" output="screen"/>
+  <node pkg="nodelet" type="nodelet" name="voxel_grid" args="load pcl/VoxelGrid pcl_manager" output="screen">
+    <param name="/bond_disable_heartbeat_timeout" value="true" />
+    <remap from="~input" to="/camera/depth/points"/>
+    <remap from="~output" to="/camera/depth/points_downsampled"/>
+    <rosparam>
+      filter_field_name: z
+      filter_limit_min: 0.01
+      filter_limit_max: 2.0  <!-- Limit the range of points to forward to 6 meters in viewing direction 6 auf 4 umgestellt-->
+      filter_limit_negative: False
+      leaf_size: 0.05  <!-- Limit the density to 5 cm-->
+    </rosparam>
+  </node>
+
+  <remap from="/points" to="/camera/depth/points_downsampled" />
+  <!-- Launch elevation mapping node. -->
+  <node pkg="elevation_mapping" type="elevation_mapping" name="elevation_mapping" output="screen">
+    <rosparam command="load" file="$(find exp4)/config/elevation_conf/kobuki_elevation.yaml"/>
+    <rosparam command="load" file="$(find exp4)/config/elevation_conf/postprocessor_pipeline.yaml"/>
+  </node>
+
+  <!-- Launch RViz with the demo configuration. -->
+  <node name="rviz" pkg="rviz" type="rviz" args="-d $(find exp4)/rviz/rviz_config.rviz"/>
+
+</launch>

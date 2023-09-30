@@ -1,0 +1,4 @@
+GlobalPlanner:
+
+  outline_map: false
+  inflation_radius: 0.2

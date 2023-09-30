@@ -1,0 +1,11 @@
+base_local_planner: 
+
+  #max_vel_trans: 0.2
+  #min_vel_trans: 0.01
+
+  #max_rot_vel: 0.4
+
+  #occdist_scale: 10
+
+  #max_scaling_factor: 1   # The maximum factor to scale the robot's footprint by
+

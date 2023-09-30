@@ -1,0 +1,6 @@
+base_local_planner: 
+
+  max_vel_lin: 0.2
+  max_vel_th: 0.4
+  min_vel_lin: 0.01
+
