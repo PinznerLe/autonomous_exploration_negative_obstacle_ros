@@ -1,0 +1,36 @@
+local_costmap:
+  resolution: 0.1
+  global_frame: odom
+  robot_base_frame: base_footprint
+  update_frequency: 5.0
+  publish_frequency: 2.0
+  transform_tolerance: 1.0
+
+  static_map: false
+  rolling_window: true
+  width: 2.5
+  height: 2.5
+  #origin_x: 0.0
+  #origin_y: 0.0375
+  
+
+  #inflation_radius: 0.3
+
+  plugins:
+    - {name: static_layer,  type: "costmap_2d::StaticLayer"}
+    - {name: inflation_layer,  type: "costmap_2d::InflationLayer"}
+  
+  static_layer: 
+    enabled: true
+    map_topic: "/grid_map_visualization/elevation_grid"
+    first_map_only:         false
+    lethal_cost_threshold:  50
+    subscribe_to_updates:   false
+    track_unknown_space:    false
+    use_maximum:            false     
+    trinary_costmap:        false 
+
+  inflation_layer:
+    enabled:  True
+    cost_scaling_factor: 5
+    #inflation_radius: 0.5 

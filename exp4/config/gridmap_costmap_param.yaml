@@ -1,0 +1,19 @@
+grid_map_topic: /elevation_map_manipulated
+
+grid_map_visualizations:
+
+  - name: elevation_grid
+    type: occupancy_grid
+    params:
+      layer: elevation_fused
+      data_min: -0.05 ##-0.05
+      data_max: -0.08 #-0.08
+
+
+
+
+
+    
+
+
+
