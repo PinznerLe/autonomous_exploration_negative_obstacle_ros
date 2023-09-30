@@ -1,0 +1,14 @@
+global_costmap:
+  global_frame: odom
+  robot_base_frame: base_link
+
+  static_map: false
+  
+  resolution: 0.1
+  width: 5
+  height: 11
+  origin_x: -1
+  origin_y: -1
+
+ 
+ 

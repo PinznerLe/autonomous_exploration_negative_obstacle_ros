@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<launch>
+
+  <!-- Launch elevation mapping node. -->
+  <node pkg="elevation_mapping" type="elevation_mapping" name="elevation_mapping" output="screen">
+    <rosparam command="load" file="$(find exp4_sim)/config/elevation_mapping_param/waffle_robot_sim.yaml"/>
+  </node>
+
+
+</launch>
