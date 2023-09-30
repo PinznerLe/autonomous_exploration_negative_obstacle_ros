@@ -1,0 +1,1104 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:vcard="http://nwalsh.com/rdf/vCard#"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">
+    <bib:Document rdf:about="https://ubuntu.com/about/release-cycle">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>Ubuntu</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_22"/>
+        <dc:title>Ubuntu release cycle</dc:title>
+        <dcterms:abstract>Overview of the Ubuntu release cycle - maintenance, support and security coverage, lifetime, upgrade paths, kernel versions and the range of editions and images published by Canonical.</dcterms:abstract>
+        <dc:date>2023</dc:date>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://ubuntu.com/about/release-cycle</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-08-30 07:07:54</dcterms:dateSubmitted>
+        <dc:description>[Online]. Available: https://ubuntu.com/about/release-cycle (30.08.2023)</dc:description>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_22">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/22/release-cycle.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://ubuntu.com/about/release-cycle</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-08-30 07:07:59</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.ros.org/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_25"/>
+        <dc:title>ROS: Home</dc:title>
+        <dc:date>2021</dc:date>
+        <dc:identifier>
+           <dcterms:URI><rdf:value>https://www.ros.org/</rdf:value></dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-08-30 07:46:51</dcterms:dateSubmitted>
+        <dc:description>[Online]. Available: https://www.ros.org/ (30.08.2023)</dc:description>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_25">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/25/www.ros.org.html"/>
+        <dc:title>ROS: Home</dc:title>
+        <dc:identifier>
+           <dcterms:URI><rdf:value>https://www.ros.org/</rdf:value></dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-08-30 07:46:58</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="http://wiki.ros.org/Packages">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_27"/>
+        <dc:title>Packages - ROS Wiki</dc:title>
+        <dc:date>2019-04-14</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://wiki.ros.org/Packages</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-08-30 07:57:08</dcterms:dateSubmitted>
+        <dc:description>[Online]. Available: http://wiki.ros.org/Packages (30.08.2023)</dc:description>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_27">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/27/Packages.html"/>
+        <dc:title>Packages - ROS Wiki</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://wiki.ros.org/Packages</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-08-30 07:57:14</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://publica-rest.fraunhofer.de/server/api/core/bitstreams/29dd16c5-3ee2-4a90-aff5-c66d5cce5110/content">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Weißhardt</foaf:surname>
+                        <foaf:givenName>Florian</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_28"/>
+        <dc:title>ROS introduction</dc:title>
+        <dc:date>2023</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Zotero</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://publica-rest.fraunhofer.de/server/api/core/bitstreams/29dd16c5-3ee2-4a90-aff5-c66d5cce5110/content</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>[Online]. Available: https://publica-rest.fraunhofer.de/server/api/core/bitstreams/29dd16c5-3ee2-4a90-aff5-c66d5cce5110/content (30.08.2023)</dc:description>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_28">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/28/Weißhardt - ROS introduction.pdf"/>
+        <dc:title>Weißhardt - ROS introduction.pdf</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://publica-rest.fraunhofer.de/server/api/core/bitstreams/29dd16c5-3ee2-4a90-aff5-c66d5cce5110/content</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-08-30 09:19:30</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.clearpathrobotics.com/assets/guides/melodic/ros/Intro%20to%20the%20Robot%20Operating%20System.html">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_31"/>
+        <dc:title>Intro to ROS — ROS Tutorials 0.5.2 documentation</dc:title>
+        <dc:date>2015</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.clearpathrobotics.com/assets/guides/melodic/ros/Intro%20to%20the%20Robot%20Operating%20System.html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-08-30 10:08:08</dcterms:dateSubmitted>
+        <dc:description>[Online]. Available: https://www.clearpathrobotics.com/assets/guides/melodic/ros/Intro%20to%20the%20Robot%20Operating%20System.html (30.08.2023)</dc:description>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_31">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/31/Intro to the Robot Operating System.html"/>
+        <dc:title>Intro to ROS — ROS Tutorials 0.5.2 documentation</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.clearpathrobotics.com/assets/guides/melodic/ros/Intro%20to%20the%20Robot%20Operating%20System.html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-08-30 10:08:13</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://roboticsbackend.com/what-is-a-ros-message/">
+        <z:itemType>blogPost</z:itemType>
+        <dcterms:isPartOf>
+           <z:Blog><dc:title>The Robotics Back-End</dc:title></z:Blog>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_33"/>
+        <dc:title>What is a ROS Message?</dc:title>
+        <dcterms:abstract>You may already have heard about ROS topics and services using ROS messages. So… What is a ROS message ? This post is a part of the What is ROS? series. ROS messages in topics and services If you haven’t read the explanations on ROS topics and ROS services yet, please read them now and ... Read more</dcterms:abstract>
+        <dc:date>2023</dc:date>
+        <z:language>en-US</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://roboticsbackend.com/what-is-a-ros-message/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-08-30 10:16:10</dcterms:dateSubmitted>
+        <dc:description>[Online]. Available: https://roboticsbackend.com/what-is-a-ros-message/ (30.08.2023)</dc:description>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_33">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/33/what-is-a-ros-message.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://roboticsbackend.com/what-is-a-ros-message/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-08-30 10:16:15</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://roboticsbackend.com/ros-param-yaml-format/">
+        <z:itemType>blogPost</z:itemType>
+        <dcterms:isPartOf>
+           <z:Blog><dc:title>The Robotics Back-End</dc:title></z:Blog>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_35"/>
+        <dc:title>ROS Param YAML Format</dc:title>
+        <dcterms:abstract>In this tutorial I’ll show you how to handle ROS params with a YAML file. ROS parameters are a great way to modify settings in your program without having to re-compile anything. But when you start to have many ROS params – sometimes more than a few hundreds – things  start to become quite complicated. ... Read more</dcterms:abstract>
+        <dc:date>2023</dc:date>
+        <z:language>en-US</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://roboticsbackend.com/ros-param-yaml-format/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-08-30 10:23:32</dcterms:dateSubmitted>
+        <dc:description>[Online]. Available: https://roboticsbackend.com/ros-param-yaml-format/ (30.08.2023)</dc:description>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_35">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/35/ros-param-yaml-format.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://roboticsbackend.com/ros-param-yaml-format/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-08-30 10:23:37</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="http://wiki.ros.org/roslaunch">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_37"/>
+        <dc:title>roslaunch - ROS Wiki</dc:title>
+        <dc:date>2019-10-23</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://wiki.ros.org/roslaunch</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-08-30 10:24:22</dcterms:dateSubmitted>
+        <dc:description>[Online]. Available: http://wiki.ros.org/roslaunch (30.08.2023)</dc:description>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_37">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/37/roslaunch.html"/>
+        <dc:title>roslaunch - ROS Wiki</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://wiki.ros.org/roslaunch</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-08-30 10:24:27</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="http://wiki.ros.org/rviz">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_46"/>
+        <dc:title>rviz - ROS Wiki</dc:title>
+        <dc:date>2018-05-16</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://wiki.ros.org/rviz</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-08-30 11:01:06</dcterms:dateSubmitted>
+        <dc:description>[Online]. Available: http://wiki.ros.org/rviz (30.08.2023)</dc:description>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_46">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/46/rviz.html"/>
+        <dc:title>rviz - ROS Wiki</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://wiki.ros.org/rviz</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-08-30 11:01:10</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="urn:isbn:978-1-4673-6225-2%20978-1-4673-6223-8%20978-1-4673-6224-5">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:identifier>ISBN 978-1-4673-6225-2 978-1-4673-6223-8 978-1-4673-6224-5</dc:identifier>
+                <dc:title>2013 IEEE Conference on Technologies for Practical Robot Applications (TePRA)</dc:title>
+                <dc:identifier>DOI 10.1109/TePRA.2013.6556373</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Woburn, MA, USA</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>IEEE</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Foote</foaf:surname>
+                        <foaf:givenName>Tully</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_47"/>
+        <dc:title>tf: The transform library</dc:title>
+        <dcterms:abstract>The tf library was designed to provide a standard way to keep track of coordinate frames and transform data within an entire system such that individual component users can be conﬁdent that the data is in the coordinate frame that they want without requiring knowledge of all the coordinate frames in the system. During early development of the Robot Operating System (ROS), keeping track of coordinate frames was identiﬁed as a common pain point for developers. The complexity of this task made it a common place for bugs when developers improperly applied transforms to data. The problem is also a challenge due to the often distributed sources of information about transformations between different sets of coordinate frames. This paper will explain the complexity of the problem and distill the requirements. Then it will discuss the design of the tf library in relation to the requirements. A few use cases will be presented to demonstrate successful deployment of the library. And powerful extensions to the core capabilities such as being able to transform data in time as well as in space.</dcterms:abstract>
+        <dc:date>04.2013</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>tf</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://ieeexplore.ieee.org/document/6556373/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-08-30 11:20:43</dcterms:dateSubmitted>
+        <dc:description>[Online]. Available: http://ieeexplore.ieee.org/document/6556373/ (30.08.2023)</dc:description>
+        <bib:pages>1-6</bib:pages>
+        <bib:presentedAt>
+            <bib:Conference>
+                <dc:title>2013 IEEE Conference on Technologies for Practical Robot Applications (TePRA)</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_47">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/47/Foote - 2013 - tf The transform library.pdf"/>
+        <dc:title>Foote - 2013 - tf The transform library.pdf</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://wiki.ros.org/Papers/TePRA2013_Foote?action=AttachFile&amp;do=get&amp;target=TePRA2013_Foote.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-08-30 11:20:40</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="http://wiki.ros.org/navigation/Tutorials/RobotSetup">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_51"/>
+        <dc:title>navigation/Tutorials/RobotSetup - ROS Wiki</dc:title>
+        <dc:date>2018-07-19</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://wiki.ros.org/navigation/Tutorials/RobotSetup</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-08-30 11:37:33</dcterms:dateSubmitted>
+        <dc:description>[Online]. Available: http://wiki.ros.org/navigation/Tutorials/RobotSetup (30.08.2023)</dc:description>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_51">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/51/RobotSetup.html"/>
+        <dc:title>navigation/Tutorials/RobotSetup - ROS Wiki</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://wiki.ros.org/navigation/Tutorials/RobotSetup</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-08-30 11:37:38</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="http://wiki.ros.org/navigation">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_53"/>
+        <dc:title>navigation - ROS Wiki</dc:title>
+        <dc:date>2020-09-14</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://wiki.ros.org/navigation</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-08-30 11:37:58</dcterms:dateSubmitted>
+        <dc:description>[Online]. Available: http://wiki.ros.org/navigation (30.08.2023)</dc:description>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_53">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/53/navigation.html"/>
+        <dc:title>navigation - ROS Wiki</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://wiki.ros.org/navigation</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-08-30 11:38:04</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://classic.gazebosim.org/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_57"/>
+        <dc:title>Gazebo</dc:title>
+        <dc:date>2014</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://classic.gazebosim.org/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-08-31 06:51:00</dcterms:dateSubmitted>
+        <dc:description>[Online]. Available: https://classic.gazebosim.org/ (31.08.2023)</dc:description>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_57">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/57/classic.gazebosim.org.html"/>
+        <dc:title>Gazebo</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://classic.gazebosim.org/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-08-31 06:51:07</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="https://data2.manualslib.com/pdf7/158/15730/1572953-yujin_robot/iclebo_kobuki.pdf?7229164b5d7809897b6f44c84cba3118">
+        <z:itemType>document</z:itemType>
+        <link:link rdf:resource="#item_58"/>
+        <dc:title>Kobuki User Guide</dc:title>
+        <dc:date>15.03.2017</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://data2.manualslib.com/pdf7/158/15730/1572953-yujin_robot/iclebo_kobuki.pdf?7229164b5d7809897b6f44c84cba3118</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-08-31 07:09:11</dcterms:dateSubmitted>
+        <dc:description>[Online]. Available: https://www.manualslib.com/manual/1572953/Yujin-Robot-Iclebo-Kobuki.html (31.08.2023)</dc:description>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_58">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/58/iclebo_kobuki.pdf"/>
+        <dc:title>iclebo_kobuki.pdf</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://data2.manualslib.com/pdf7/158/15730/1572953-yujin_robot/iclebo_kobuki.pdf?7229164b5d7809897b6f44c84cba3118</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-08-31 07:09:11</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://wiki.odroid.com/odroid-xu4/odroid-xu4">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_61"/>
+        <dc:title>odroid-xu4:odroid-xu4 [ODROID Wiki]</dc:title>
+        <dc:date>2023/04/21</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://wiki.odroid.com/odroid-xu4/odroid-xu4</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-08-31 07:38:26</dcterms:dateSubmitted>
+        <dc:description>[Online]. Available: https://wiki.odroid.com/odroid-xu4/odroid-xu4 (31.08.2023)</dc:description>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_61">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/61/odroid-xu4.html"/>
+        <dc:title>odroid-xu4:odroid-xu4 [ODROID Wiki]</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://wiki.odroid.com/odroid-xu4/odroid-xu4</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-08-31 07:38:41</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="#item_62">
+        <z:itemType>document</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Team AutonOHM</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_63"/>
+        <dc:title>RoboCup Rescue 2023 Team Description Paper AutonOHM</dc:title>
+        <dc:date>2023</dc:date>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_63">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/63/Team AutonOHM - 2023 - RoboCup Rescue 2023 Team Description Paper AutonOH.pdf"/>
+        <dc:title>Team AutonOHM - 2023 - RoboCup Rescue 2023 Team Description Paper AutonOH.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://cdn-reichelt.de/documents/datenblatt/C300/ORBBEC_ASTRA_STEREO_S.pdf">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_64"/>
+        <dc:title>ORBBEC_ASTRA_STEREO_S.pdf</dc:title>
+        <dc:date>2023</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://cdn-reichelt.de/documents/datenblatt/C300/ORBBEC_ASTRA_STEREO_S.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-08-31 08:43:43</dcterms:dateSubmitted>
+        <dc:description>[Online]. Available: https://cdn-reichelt.de/documents/datenblatt/C300/ORBBEC_ASTRA_STEREO_S.pdf (31.08.2023)</dc:description>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_64">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/64/ORBBEC_ASTRA_STEREO_S.pdf"/>
+        <dc:title>ORBBEC_ASTRA_STEREO_S.pdf</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://cdn-reichelt.de/documents/datenblatt/C300/ORBBEC_ASTRA_STEREO_S.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-08-31 08:43:43</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.mybotshop.de/Orbbec3D-Stereo-S">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+            <z:Website>
+               <dc:title>Orbbec3D Stereo S | MYBOTSHOP.DE, 208,95 €</dc:title>
+            </z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_67"/>
+        <dc:title>Orbbec3D Stereo S | MYBOTSHOP.DE, 208,95 €</dc:title>
+        <dcterms:abstract>Orbbec3D Stereo S | Mini 3D-Kamera ca. 60 x 17 x 10mm | 0,3 - 3m | 1920 x 1080Px bei 30FPS | Tiefenbilder 30FPS | Kompetenter Support | Schneller Versand |</dcterms:abstract>
+        <dc:date>2023</dc:date>
+        <z:language>de</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.mybotshop.de/Orbbec3D-Stereo-S</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-08-31 08:48:53</dcterms:dateSubmitted>
+        <dc:description>[Online]. Available: https://www.mybotshop.de/Orbbec3D-Stereo-S (31.08.2023)</dc:description>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_67">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/67/Orbbec3D-Stereo-S.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.mybotshop.de/Orbbec3D-Stereo-S</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-08-31 08:49:00</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://robots.ros.org/turtlebot3/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>robots.ros.org</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_69"/>
+        <dc:title>TurtleBot3</dc:title>
+        <dcterms:abstract>An index of ROS Robots</dcterms:abstract>
+        <dc:date>2023</dc:date>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://robots.ros.org/turtlebot3/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-08-31 09:49:24</dcterms:dateSubmitted>
+        <dc:description>[Online]. Available: https://robots.ros.org/turtlebot3/ (31.08.2023)</dc:description>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_69">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/69/turtlebot3.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://robots.ros.org/turtlebot3/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-08-31 09:49:28</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://rrl.robocup.org/wp-content/uploads/2022/05/RoboCup2022_AssemblyGuide_Final.pdf">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_70"/>
+        <dc:title>RoboCup2022_AssemblyGuide_Final.pdf</dc:title>
+        <dc:date>2022</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://rrl.robocup.org/wp-content/uploads/2022/05/RoboCup2022_AssemblyGuide_Final.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-08-31 10:12:13</dcterms:dateSubmitted>
+        <dc:description>[Online]. Available: https://rrl.robocup.org/wp-content/uploads/2022/05/RoboCup2022_AssemblyGuide_Final.pdf (31.08.2023)</dc:description>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_70">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/70/RoboCup2022_AssemblyGuide_Final.pdf"/>
+        <dc:title>RoboCup2022_AssemblyGuide_Final.pdf</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://rrl.robocup.org/wp-content/uploads/2022/05/RoboCup2022_AssemblyGuide_Final.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-08-31 10:12:13</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://rrl.robocup.org/wp-content/uploads/2019/06/rrl_rulebook_2019_v2.4.pdf">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_72"/>
+        <dc:title>rrl_rulebook_2019_v2.4.pdf</dc:title>
+        <dc:date>2019</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://rrl.robocup.org/wp-content/uploads/2019/06/rrl_rulebook_2019_v2.4.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-08-31 10:22:07</dcterms:dateSubmitted>
+        <dc:description>[Online]. Available: https://rrl.robocup.org/wp-content/uploads/2019/06/rrl_rulebook_2019_v2.4.pdf (31.08.2023)</dc:description>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_72">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/72/rrl_rulebook_2019_v2.4.pdf"/>
+        <dc:title>rrl_rulebook_2019_v2.4.pdf</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://rrl.robocup.org/wp-content/uploads/2019/06/rrl_rulebook_2019_v2.4.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-08-31 10:22:07</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="http://wiki.ros.org/frontier_exploration">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_75"/>
+        <dc:title>frontier_exploration - ROS Wiki</dc:title>
+        <dc:date>2017-03-08</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://wiki.ros.org/frontier_exploration</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-08-31 11:06:18</dcterms:dateSubmitted>
+        <dc:description>[Online]. Available: http://wiki.ros.org/frontier_exploration (31.08.2023)</dc:description>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_75">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/75/frontier_exploration.html"/>
+        <dc:title>frontier_exploration - ROS Wiki</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://wiki.ros.org/frontier_exploration</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-08-31 11:06:22</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="http://wiki.ros.org/explore_lite">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_77"/>
+        <dc:title>explore_lite - ROS Wiki</dc:title>
+        <dc:date>2017-12-15</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://wiki.ros.org/explore_lite</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-08-31 11:06:30</dcterms:dateSubmitted>
+        <dc:description>[Online]. Available: http://wiki.ros.org/explore_lite (31.08.2023)</dc:description>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_77">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/77/explore_lite.html"/>
+        <dc:title>explore_lite - ROS Wiki</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://wiki.ros.org/explore_lite</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-08-31 11:06:35</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="http://wiki.ros.org/move_base">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_79"/>
+        <dc:title>move_base - ROS Wiki</dc:title>
+        <dc:date>2020-09-03</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://wiki.ros.org/move_base</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-08-31 11:14:03</dcterms:dateSubmitted>
+        <dc:description>[Online]. Available: http://wiki.ros.org/move_base (31.08.2023)</dc:description>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_79">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/79/move_base.html"/>
+        <dc:title>move_base - ROS Wiki</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://wiki.ros.org/move_base</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-08-31 11:14:08</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="http://wiki.ros.org/kobuki">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_81"/>
+        <dc:title>kobuki - ROS Wiki</dc:title>
+        <dc:date>2016-09-07</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://wiki.ros.org/kobuki</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-08-31 11:35:34</dcterms:dateSubmitted>
+        <dc:description>[Online]. Available: http://wiki.ros.org/kobuki (31.08.2023)</dc:description>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_81">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/81/kobuki.html"/>
+        <dc:title>kobuki - ROS Wiki</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://wiki.ros.org/kobuki</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-08-31 11:35:40</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="http://wiki.ros.org/teb_local_planner">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_83"/>
+        <dc:title>teb_local_planner - ROS Wiki</dc:title>
+        <dc:date>2020-03-11</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://wiki.ros.org/teb_local_planner</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-09-09 14:01:04</dcterms:dateSubmitted>
+        <dc:description>[Online]. Available: http://wiki.ros.org/teb_local_planner (09.09.2023)</dc:description>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_83">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/83/teb_local_planner.html"/>
+        <dc:title>teb_local_planner - ROS Wiki</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://wiki.ros.org/teb_local_planner</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-09-09 14:01:12</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="http://wiki.ros.org/pcl_ros/Tutorials/VoxelGrid%20filtering">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_85"/>
+        <dc:title>pcl_ros/Tutorials/VoxelGrid filtering - ROS Wiki</dc:title>
+        <dc:date>2014-09-30</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://wiki.ros.org/pcl_ros/Tutorials/VoxelGrid%20filtering</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-09-11 11:17:57</dcterms:dateSubmitted>
+        <dc:description>[Online]. Available: http://wiki.ros.org/pcl_ros/Tutorials/VoxelGrid%20filtering (11.09.2023)</dc:description>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_85">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/85/VoxelGrid filtering.html"/>
+        <dc:title>pcl_ros/Tutorials/VoxelGrid filtering - ROS Wiki</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://wiki.ros.org/pcl_ros/Tutorials/VoxelGrid%20filtering</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-09-11 11:18:03</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="http://wiki.ros.org/tf">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_87"/>
+        <dc:title>tf - ROS Wiki</dc:title>
+        <dc:date>2017-10-02</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://wiki.ros.org/tf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-09-11 11:21:56</dcterms:dateSubmitted>
+        <dc:description>[Online]. Available: http://wiki.ros.org/tf (11.09.2023)</dc:description>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_87">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/87/tf.html"/>
+        <dc:title>tf - ROS Wiki</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://wiki.ros.org/tf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-09-11 11:22:03</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.th-nuernberg.de/fakultaeten/efi/forschung/forschungsaktive-labore/mobile-robotik/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_89"/>
+        <dc:title>Mobile Robotik – Technische Hochschule Nürnberg Georg Simon Ohm</dc:title>
+        <dc:date>24. November 2020</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.th-nuernberg.de/fakultaeten/efi/forschung/forschungsaktive-labore/mobile-robotik/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-09-12 09:10:30</dcterms:dateSubmitted>
+        <dc:description>[Online]. Available: https://www.th-nuernberg.de/fakultaeten/efi/forschung/forschungsaktive-labore/mobile-robotik/ (12.09.2023)</dc:description>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_89">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/89/mobile-robotik.html"/>
+        <dc:title>Mobile Robotik – Technische Hochschule Nürnberg Georg Simon Ohm</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.th-nuernberg.de/fakultaeten/efi/forschung/forschungsaktive-labore/mobile-robotik/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-09-12 09:10:36</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.robocup.org/a_brief_history_of_robocup">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_91"/>
+        <dc:title>A Brief History of RoboCup</dc:title>
+        <dcterms:abstract>A Brief History of RoboCup</dcterms:abstract>
+        <dc:date>2023</dc:date>
+        <z:language>en-US</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.robocup.org/a_brief_history_of_robocup</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-09-12 09:15:06</dcterms:dateSubmitted>
+        <dc:description>[Online]. Available: https://www.robocup.org/a_brief_history_of_robocup (12.09.2023)</dc:description>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_91">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/91/a_brief_history_of_robocup.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.robocup.org/a_brief_history_of_robocup</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-09-12 09:15:12</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="http://wiki.ros.org/costmap_2d">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_93"/>
+        <dc:title>costmap_2d - ROS Wiki</dc:title>
+        <dc:date>2018-01-10</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://wiki.ros.org/costmap_2d</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-09-12 11:24:15</dcterms:dateSubmitted>
+        <dc:description>[Online]. Available: http://wiki.ros.org/costmap_2d (12.09.2023)</dc:description>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_93">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/93/costmap_2d.html"/>
+        <dc:title>costmap_2d - ROS Wiki</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://wiki.ros.org/costmap_2d</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-09-12 11:24:22</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:BookSection rdf:about="urn:isbn:978-3-319-26052-5">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <prism:volume>625</prism:volume>
+                <dc:identifier>ISBN 978-3-319-26052-5</dc:identifier>
+                <dc:title>In: Robot Operating System (ROS)</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fankhauser</foaf:surname>
+                        <foaf:givenName>Péter</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hutter</foaf:surname>
+                        <foaf:givenName>Marco</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_96"/>
+        <link:link rdf:resource="#item_97"/>
+        <dc:title>A Universal Grid Map Library: Implementation and Use Case for Rough Terrain Navigation</dc:title>
+        <dcterms:abstract>In this research chapter, we present our work on a universal grid map library for use as mapping framework for mobile robotics. It is designed for a wide range of applications such as online surface reconstruction and terrain interpretation for rough terrain navigation. Our software features multi-layered maps, computationally efficient repositioning of the map boundaries, and compatibility with existing ROS map message types. Data storage is based on the linear algebra library Eigen, offering a wide range of data processing algorithms. This chapter outlines how to integrate the grid map library into the reader's own applications. We explain the concepts and provide code samples to discuss various features of the software. As a use case, we present an application of the library for online elevation mapping with a legged robot. The grid map library and the robot-centric elevation mapping framework are available open-source at http://github.com/ethz-asl/grid_map and http://github.com/ethz-asl/elevation_mapping.</dcterms:abstract>
+        <dc:date>2016-01-26</dc:date>
+        <z:shortTitle>A Universal Grid Map Library</z:shortTitle>
+        <z:libraryCatalog>ResearchGate</z:libraryCatalog>
+        <dc:description>[Online]. Available: https://www.researchgate.net/publication/284415855_A_Universal_Grid_Map_Library_Implementation_and_Use_Case_for_Rough_Terrain_Navigation (12.09.2023)</dc:description>
+    </bib:BookSection>
+    <z:Attachment rdf:about="#item_96">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/96/Fankhauser und Hutter - 2016 - A Universal Grid Map Library Implementation and U.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.researchgate.net/profile/Peter-Fankhauser-3/publication/284415855_A_Universal_Grid_Map_Library_Implementation_and_Use_Case_for_Rough_Terrain_Navigation/links/59f1add4458515bfd07fd1d2/A-Universal-Grid-Map-Library-Implementation-and-Use-Case-for-Rough-Terrain-Navigation.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-09-12 11:59:34</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_97">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>ResearchGate Link</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.researchgate.net/publication/284415855_A_Universal_Grid_Map_Library_Implementation_and_Use_Case_for_Rough_Terrain_Navigation</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-09-12 11:59:34</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+    </z:Attachment>
+    <bib:Article rdf:about="https://ieeexplore.ieee.org/document/8392399/">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2377-3766,%202377-3774"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fankhauser</foaf:surname>
+                        <foaf:givenName>Peter</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bloesch</foaf:surname>
+                        <foaf:givenName>Michael</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hutter</foaf:surname>
+                        <foaf:givenName>Marco</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_98"/>
+        <dc:title>Probabilistic Terrain Mapping for Mobile Robots With Uncertain Localization</dc:title>
+        <dcterms:abstract>Mobile robots build on accurate, real-time mapping with onboard range sensors to achieve autonomous navigation over rough terrain. Existing approaches often rely on absolute localization based on tracking of external geometric or visual features. To circumvent the reliability-issues of these approaches, we propose a novel terrain mapping method which bases on proprioceptive localization from kinematic and inertial measurements only. The proposed method incorporates the drift and uncertainties of the state estimation and a noise model of the distance sensor. It yields a probabilistic terrain estimate as a grid-based elevation map including upper and lower conﬁdence bounds. We demonstrate the effectiveness of our approach with simulated datasets and real-world experiments for real-time terrain mapping with legged robots and compare the terrain reconstruction to ground truth reference maps.</dcterms:abstract>
+        <dc:date>10/2018</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ieeexplore.ieee.org/document/8392399/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-09-12 12:03:49</dcterms:dateSubmitted>
+        <dc:description>[Online]. Available: https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/272110/fankhauser2018.pdf?sequence=1&amp;isAllowed=y (12.09.2023)</dc:description>
+        <bib:pages>3019-3026</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2377-3766,%202377-3774">
+        <prism:volume>3</prism:volume>
+        <dc:title>IEEE Robotics and Automation Letters</dc:title>
+        <dc:identifier>DOI 10.1109/LRA.2018.2849506</dc:identifier>
+        <prism:number>4</prism:number>
+        <dcterms:alternative>IEEE Robot. Autom. Lett.</dcterms:alternative>
+        <dc:identifier>ISSN 2377-3766, 2377-3774</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_98">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/98/Fankhauser et al. - 2018 - Probabilistic Terrain Mapping for Mobile Robots Wi.pdf"/>
+        <dc:title>Fankhauser et al. - 2018 - Probabilistic Terrain Mapping for Mobile Robots Wi.pdf</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/272110/fankhauser2018.pdf?sequence=1&amp;isAllowed=y</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-09-12 12:03:46</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.obi.de/porenbetonsteine/porenbeton-planblock-599x199-mm-ppw-2-04/p/8447922">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>OBI.de</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_101"/>
+        <dc:title>Porenbeton Planblock 599x199 mm PPW-2-04 kaufen bei OBI</dc:title>
+        <dcterms:abstract>Duschtassen und Nischen • Zum Abmauern von Badewannen • Stärke: 200 mm ✓ Porenbeton Planblock 599x199 mm PPW-2-04 ➜ Porenbetonsteine bei OBI kaufen</dcterms:abstract>
+        <dc:date>2023</dc:date>
+        <z:language>de</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.obi.de/porenbetonsteine/porenbeton-planblock-599x199-mm-ppw-2-04/p/8447922</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-09-25 07:29:57</dcterms:dateSubmitted>
+        <dc:description>[Online]. Available: https://www.obi.de/porenbetonsteine/porenbeton-planblock-599x199-mm-ppw-2-04/p/8447922 (25.09.2023)</dc:description>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_101">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/101/8447922.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.obi.de/porenbetonsteine/porenbeton-planblock-599x199-mm-ppw-2-04/p/8447922</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-09-25 07:30:03</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+</rdf:RDF>
